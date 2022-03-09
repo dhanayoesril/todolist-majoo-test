@@ -1,0 +1,32 @@
+.todo-card {
+    width: 450px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+}
+
+.text-style {
+    text-align: justify;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+            line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.card-right {
+    background-color: #1ACAB0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.label-text {
+    font-size: 14px;
+    font-weight: bold;
+    color: #1ACAB0;
+}
+
+.text-todo {
+    font-size: 15px;
+}

@@ -1,0 +1,7 @@
+export const OPEN_MODAL = "OPEN_MODAL";
+export const CLOSE_MODAL = "CLOSE_MODAL";
+export const GET_TODO_LIST = "GET_TODO_LIST";
+export const ADD_TODO_LIST = "ADD_TODO_LIST";
+export const DETAIL_TODO_LIST = "DETAIL_TODO_LIST";
+export const UPDATE_TODO_LIST = "UPDATE_TODO_LIST";
+export const DELETE_TODO_LIST = "DELETE_TODO_LIST";
